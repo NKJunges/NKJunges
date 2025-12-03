@@ -8,7 +8,7 @@
 </p>
 
 🔭 **Currently Studying**  
-**Computer Science** (2nd Semester) at [UFSC](https://ufsc.br/) - Federal University of Santa Catarina  
+**Computer Science** (3rd Semester) at [UFSC](https://ufsc.br/) - Federal University of Santa Catarina  
 
 🛠 **My Toolbox**  
 <p>
